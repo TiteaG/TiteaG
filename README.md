@@ -8,7 +8,7 @@
   - [🌐 To-Do List Web App (Streamlit)](https://github.com/TiteaG/todo-webapp)
   - [🤖 Custom LangChain AI Assistant]()
 - <b>QA / Testing</b>
-  - [✅ Practicing test automation with Selenium (Python)]()
+  - [✅ Practicing test automation with Selenium (Python)](https://github.com/TiteaG/selenium-webautomation)
   - 🔍 Experience inspecting elements, locating elements, and automating browser actions
   - 🐞 Familiar with SDLC, STLC, Bug Life Cycle, JIRA, Confluence, Regression & Smoke Testing
 
